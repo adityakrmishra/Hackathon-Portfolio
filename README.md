@@ -17,7 +17,7 @@
 - Day 4: **[FinGenius](https://github.com/adityakrmishra/FinGenius)** - Blockchain-powered financial analytics platform  
 - Day 5: **[SupplyChain Optimizer](https://github.com/adityakrmishra/SupplyChain-Optimizer)** - Quantum computing logistics solution  
 - Day 6: **[EcoTrack](https://github.com/adityakrmishra/EcoTrack)** - Carbon footprint tracking API  
-- Day 7: **[Decentralized Response Coordination](https://github.com/adityakrmishra/Decentralized-Response-Coordination)** - Disaster management blockchain system  
+- Day 7: **[Decentralized Response Coordination](https://github.com/adityakrmishra/Decentralized-Response-Coordination-)** - Disaster management blockchain system  
 
 ---
 
